@@ -1,0 +1,27 @@
+{
+    "version": "https://jsonfeed.org/version/1",
+    "title": "PRUEBA",
+    "description": "",
+    "home_page_url": "https://snkcoder.github.io/publiiexample",
+    "feed_url": "https://snkcoder.github.io/publiiexample/feed.json",
+    "user_comment": "",
+    "author": {
+        "name": "Yo"
+    },
+    "items": [
+        {
+            "id": "https://snkcoder.github.io/publiiexample/toiajrgirgar.html",
+            "url": "https://snkcoder.github.io/publiiexample/toiajrgirgar.html",
+            "title": "toiajrgirgar",
+            "summary": "fwaefawefawefawefwae dsgsergerg ",
+            "content_html": "<p>fwaefawefawefawefwae</p>\n<p>dsgsergerg</p>\n<p> </p>\n<p> </p>",
+            "author": {
+                "name": "Yo"
+            },
+            "tags": [
+            ],
+            "date_published": "2020-09-17T13:29:04+02:00",
+            "date_modified": "2020-09-17T13:29:04+02:00"
+        }
+    ]
+}
